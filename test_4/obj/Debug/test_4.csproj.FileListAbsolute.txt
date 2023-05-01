@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\IIS_TEST\test_4\bin\Debug\test_4.exe.config
+C:\Users\Dell\source\repos\IIS_TEST\test_4\bin\Debug\test_4.exe
+C:\Users\Dell\source\repos\IIS_TEST\test_4\bin\Debug\test_4.pdb
+C:\Users\Dell\source\repos\IIS_TEST\test_4\obj\Debug\test_4.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\IIS_TEST\test_4\obj\Debug\test_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\IIS_TEST\test_4\obj\Debug\test_4.Form1.resources
+C:\Users\Dell\source\repos\IIS_TEST\test_4\obj\Debug\test_4.Properties.Resources.resources
+C:\Users\Dell\source\repos\IIS_TEST\test_4\obj\Debug\test_4.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\IIS_TEST\test_4\obj\Debug\test_4.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\IIS_TEST\test_4\obj\Debug\test_4.exe
+C:\Users\Dell\source\repos\IIS_TEST\test_4\obj\Debug\test_4.pdb
